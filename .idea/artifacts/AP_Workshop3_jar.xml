@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AP-Workshop3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AP_Workshop3_jar</output-path>
+    <root id="archive" name="AP-Workshop3.jar">
+      <element id="module-output" name="AP-Workshop3" />
+    </root>
+  </artifact>
+</component>
